@@ -1,0 +1,8 @@
+The exercise is to design and conduict an experiment to deomnstrate the difficulties that sample-average emthods have for nonstraionay problems. I need to use a modified version of the 1-0-armed testbed in which all the $q_*(a)$ start out equal but take indepent random walks (say by adding a normaly distrubiton with mean zer oand sd 0.01 each step). Prepare plots liike figure 2.2 for an action-value method using sample averages, incrementaly computers and another action-value method using a contant stept-size paramter, a=0.1. Use e=0.1 and longer runs say of 10,000 steps.
+
+
+Things that I need to build:
+
+1. A k-armed bandit
+2. k-armed bandit testbed
+3. Learning agents.

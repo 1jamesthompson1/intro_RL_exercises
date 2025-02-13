@@ -1,0 +1,6 @@
+This is a repo that I will use to contain all of my exercise attempts from the intro to RL textbook by Richard sutton.
+
+I am doing this in prepatory for my MAI programme at Victoria university of Wellington. Particulary because I am going to do a self study paper that has a RL research component.
+
+
+Each exercise will be in its own repo following the format `chapter_[num]/[exercise_num]`.
